@@ -1,5 +1,5 @@
 //
-//  RazeCore.swift
+//  Networking.swift
 //  RazeCore
 //
 //  Created by Niclas Nordling on 2020-06-11.
@@ -7,6 +7,8 @@
 
 import Foundation
 
-public struct RazeCore {
-    
+extension RazeCore {
+    public class Networking {
+        
+    }
 }
